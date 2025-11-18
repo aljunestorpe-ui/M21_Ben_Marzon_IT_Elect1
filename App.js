@@ -1,4 +1,3 @@
-import React from "react";
 import ChatScreen from "./ChatScreen";
 import CommentSection from "./CommentSection";
 import { SafeAreaView } from 'react-native';
